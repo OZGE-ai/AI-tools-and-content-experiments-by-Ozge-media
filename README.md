@@ -4,6 +4,8 @@
 
 **EN:** Experiments and working tools for AI in content production by Ozge media (Astana, Kazakhstan): an AI video-editing agent, an auto-editing pipeline for talking-head videos and shorts, and Claude-based agents for content and marketing.
 
+▶️ **Видео-демо ИИ-агента монтажа:** https://youtu.be/GARec2zQ-ng
+
 ## Кто я
 Акжаркын Куздибаева, основатель контент-студии Ozge media (Астана).
 Студия: аренда локации под съёмку рилсов, подкастов, фотосессий +
